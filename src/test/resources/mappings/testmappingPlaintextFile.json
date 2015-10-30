@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPattern": "/test-mapping-plaintext-file"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "plain-example.txt",
+        "headers": {
+            "Content-Type": "text/plain"
+        }
+    }
+}
